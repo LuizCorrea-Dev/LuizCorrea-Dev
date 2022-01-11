@@ -47,7 +47,7 @@
 
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1YsfNdQEvU0Gr31vpdlqKJAhafr9w0l_I/view" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5cb64060809d8e5058ea92ba/1613674594197-81FFVNXINMVB9J11IUU9/resume+button.png" alt="resume" height="40" /> </a> 
+<a href="https://drive.google.com/file/d/1gI4BsKRlxvOpp98LLH7Kcby-TuijtgkI/view?usp=sharing" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5cb64060809d8e5058ea92ba/1613674594197-81FFVNXINMVB9J11IUU9/resume+button.png" alt="resume" height="40" /> </a> 
 <a href="https://luizcorrea-dev.github.io/" target="_blank"> <img src="https://static.wixstatic.com/media/054863_720942f182b044ebbcb661156045050f~mv2.png/v1/fill/w_560,h_212,al_c,q_85,usm_0.66_1.00_0.01/Portfolio_Button.webp" alt="resume" height="40" /> </a> 
 </p>
 
