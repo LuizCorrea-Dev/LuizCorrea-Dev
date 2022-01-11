@@ -19,8 +19,7 @@
 
 
 
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-frame=true
-&row=1&column=7" alt="luizcorrea-dev" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-frame=true&row=1&column=7" alt="luizcorrea-dev" /></a> </p>
 
 <p>
 <table  border="0">
@@ -30,7 +29,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizcorrea-dev&show_icons=true&locale=en&layout=full&theme=ocean_dark&langs_count=8" alt="luizcorrea-dev" />    
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizcorrea-dev&show_icons=true&locale=en&theme=ocean_dark" alt="luizcorrea-dev" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizcorrea-dev&show_icons=true&locale=en&theme=ocean_dark" alt="luizcorrea-dev" /</p>
     </td>
   </tr>
   <tr>
