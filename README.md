@@ -6,8 +6,8 @@
 
    <p align="left">
 <h2>Idioma
-       <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" alt="mongodb" width="40" height="20"/> </a>
-     <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-ES.md"> <img src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="sqlite" width="40" height="20"/> </a></h2></p>
+       <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" alt="English" width="40" height="20"/> </a>
+     <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-ES.md"> <img src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="Spanish" width="40" height="20"/> </a></h2></p>
 
 
 
