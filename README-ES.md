@@ -18,9 +18,8 @@
 </h4>
 
 
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-frame=true&row=1&column=7" alt="luizcorrea-dev" /></a> </p>
 
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-frame=true
-&row=1&column=7" alt="luizcorrea-dev" /></a> </p>
 
 <p>
 <table  border="0">
