@@ -7,7 +7,7 @@
    <p align="left">
 <h2>Language
        <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README.md"> <img src="https://www.worldometers.info/img/flags/br-flag.gif" alt="portuguese" width="40" height="20"/> </a>
-     <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-ES.md"> <img src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="spanich" width="40" height="20"/> </a></h2></p>
+     <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-ES.md"> <img src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="spanish" width="40" height="20"/> </a></h2></p>
 
 
 
@@ -19,8 +19,7 @@
 
 
 
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-frame=true
-&row=1&column=7" alt="luizcorrea-dev" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-frame=true&row=1&column=7" alt="luizcorrea-dev" /></a> </p>
 
 <p>
 <table  border="0">
