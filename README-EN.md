@@ -1,34 +1,56 @@
-<h2>Language <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-pt.md"> <img src="https://www.worldometers.info/img/flags/br-flag.gif" alt="portuguese" width="30"/> </a></h2>
+<h2>Language <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README.md"> <img src="https://www.worldometers.info/img/flags/br-flag.gif" alt="portuguese" width="30"/> </a></h2>
 
-# Hi, I'm Luiz Correa 👋
+# Luiz Correa | Full Stack Software Engineer 👋
 
-I am a **Full Stack & Mobile Developer** dedicated to building high-performance, scalable applications. With a broad skill set covering everything from **Next.js** and **React** front-ends to **Node.js**, **Java**, and **Kotlin** back-ends, I bridge the gap between complex logic and seamless user experiences.
+### 🚀 Transforming Business Logic into High-Impact SaaS Solutions
+I am a **Full Stack Developer** with a solid foundation in **Business Administration**, which enables me to build systems that not only function technically but also optimise profits and processes. Currently focused on the **Next.js**, **Node.js**, and **Supabase** ecosystem.
 
-### 🚀 About Me
-- 🌍 Based in Portugal (+351 965218600)
-- 💻 Currently focusing on: Full Stack Ecosystems (React, Node, Next.js)
-- 📱 Mobile Expert: Native Android (Kotlin) and Cross-platform (React Native)
-- 🛠 Core Languages: TypeScript, JavaScript, Java, C++, C#
+- 🌍 Based in Porto, Portugal (Available for projects across the EU/Ireland)
+- 💼 Software Architect at **Techfix-IT Ltd**
+- 🎓 BA in Business Administration (Analytical insight into cash flow, P&L, and inventory)
 
-### 🛠 Tech Stack
-- **Front-End:** React.js, Next.js, JavaScript, TypeScript, Tailwind CSS
-- **Back-End:** Node.js, Java (Spring Boot), C++, C# (.NET Core)
-- **Mobile:** Kotlin, React Native
-- **Deployment:** Vercel, AWS
+---
 
-### 🏆 Top Projects
-1. **[Person API Management](https://github.com/LuizCorrea-Dev/personapi-desafio-dio)** - A person management system using Spring Boot and REST API best practices. (Java | ⭐ 2)
-2. **[Spring Web MVC](https://github.com/LuizCorrea-Dev/sprin-web-mvc)** - Comprehensive web application built with Spring MVC. (Java | ⭐ 2)
-3. **[App.Series](https://github.com/LuizCorrea-Dev/App.Series)** - Memory-based series registration application using .NET. (C# | ⭐ 2)
-4. **[Game Catalog API](https://github.com/LuizCorrea-Dev/ApiCatalogoJogos)** - Game catalog management focusing on clean architecture. (C# | ⭐ 2)
-5. **[Beer Stock API](https://github.com/LuizCorrea-Dev/beer-stock_api)** - RESTful service for managing beer inventories. (Java | ⭐ 2)
-6. **[Dieta.ia-backend](https://github.com/LuizCorrea-Dev/dieta.ia-backend)** - AI-powered backend for personalized diet planning. (TypeScript | ⭐ 1)
-7. **[Twitch Transparent Chat](https://github.com/LuizCorrea-Dev/twitch-transparent-chat)** - A non-intrusive transparent overlay for Twitch streamers. (JavaScript | ⭐ 1)
-8. **[Gemini Magic Eraser](https://github.com/LuizCorrea-Dev/gemini-magc-eraser)** - Utility to remove branding logos from generated images. (TypeScript | ⭐ 0)
-9. **[Flappy Bird Java](https://github.com/LuizCorrea-Dev/FlappyBird)** - Implementation of the classic Flappy Bird game logic. (Java | ⭐ 1)
-10. **[Android Location Samples](https://github.com/LuizCorrea-Dev/location-samples)** - Best practices for implementing Location APIs on Android. (Kotlin/Java | ⭐ 1)
+### 🛠️ Featured Projects (Enterprise & SaaS)
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=LuizCorrea-Dev&show_icons=true&theme=dark)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCorrea-Dev&layout=compact&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizCorrea-Dev&theme=dark)
+#### 📦 [Eire-ERP - Integrated Management & Logistics](https://github.com/techfix-it/Eire-ERP)
+A comprehensive solution for the Irish market, unifying IT operations and logistics.
+- **Technical Highlight:** Real-time fleet tracking system with interactive maps and dynamic financial dashboards (P&L/DRE).
+- **Stack:** Next.js 15 (App Router), TypeScript, Supabase (PostgreSQL & Auth), Framer Motion, Tailwind CSS.
+- **Problem Solved:** Inventory centralisation, billing compliant with Irish Revenue standards, and route optimisation for field technicians.
+
+#### 🛒 [Techfix Shop - Omnichannel E-commerce](https://github.com/techfix-it/shop.teckfix-it)
+A sales platform directly integrated with the ERP inventory.
+- **Technical Highlight:** Real-time stock synchronisation and integration with European payment gateways.
+- **Stack:** React, Node.js, RESTful API integration.
+
+---
+
+### 💻 Technical Stack
+
+- **Web:** Next.js (App Router), React.js, TypeScript, JavaScript, Tailwind CSS.
+- **Backend & Cloud:** Node.js, Supabase, PostgreSQL, Firebase, MongoDB, REST APIs.
+- **Mobile:** Native Android (Kotlin), React Native.
+- **Tools:** Git, Vercel, Docker, Agile Methodologies (Jira).
+
+---
+
+### 🎓 Business + Technology
+My **Administration** background sets me apart in developing corporate tools:
+- **Finance:** Logical implementation of Profitability Dashboards, Cash Flow, and P&L (DRE).
+- **Logistics:** Inventory management and fleet optimisation.
+- **Strategy:** Full focus on UI/UX designed to reduce end-user operational time.
+
+---
+
+### 📊 Statistics & Activity
+![Luiz's Stats](https://github-readme-stats.vercel.app/api?username=LuizCorrea-Dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCorrea-Dev&layout=compact&theme=dark)
+
+---
+
+### 📫 Contact
+- 📞 **Portugal:** +351 965 218 600
+- 📧 **Email:** luizcorrea.pt@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/luizcorrea-dev](https://www.linkedin.com/in/luizcorrea-dev)
+- 🔗 **Portfolio:** [luizcorrea-dev.github.io](https://luizcorrea-dev.github.io/)
