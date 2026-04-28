@@ -1,3 +1,5 @@
+<h2>Language <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-en.md"> <img src="https://www.worldometers.info/img/flags/uk-flag.gif" alt="english" width="30"/> </a></h2>
+
 # Luiz Correa | Full Stack Software Engineer 👋
 
 ### 🚀 Transformando Regras de Negócio em Soluções SaaS de Alto Impacto
