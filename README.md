@@ -1,4 +1,4 @@
-<h2>Language <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/edit/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/uk-flag.gif" alt="english" width="30"/> </a></h2>
+<h2>Language <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/uk-flag.gif" alt="english" width="30"/> </a></h2>
 
 # Luiz Correa | Full Stack Software Engineer 👋
 
